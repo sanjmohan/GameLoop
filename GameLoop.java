@@ -1,7 +1,7 @@
 import javax.swing.JPanel;
 
 /**
- * GameLoops is an extended JPanel that updates the display at a constant rate.
+ * GameLoop is an extended JPanel that updates the display at a constant rate.
  * It includes a implementation of a game loop based on the "Constant Game Speed with Maximum FPS"
  * loop shown on this page: http://www.koonsolo.com/news/dewitters-gameloop/ 
  *
