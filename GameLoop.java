@@ -1,5 +1,3 @@
-package sam.utilities;
-
 import javax.swing.JPanel;
 
 /**
